@@ -1,0 +1,7 @@
+Type,ID,Name,Department,Designation,Status,DaysAbsent,RateOrBase,HoursOrBonus
+FULL_TIME,EMP01,Ayesha Khan,Engineering,Senior Developer,Active,1,50000,5000
+FULL_TIME,EMP02,Bilal Ahmed,HR,HR Manager,Active,0,42000,3000
+HOURLY,EMP03,Sara Ali,Support,Technical Specialist,Active,2,25000,1600
+HOURLY,EMP04,Usman Tariq,Operations,Logistics Coordinator,On Leave,3,22000,1200
+FULL_TIME,234,rida,software engineering,faculty,on leave,4,40000,3000
+HOURLY,789,hassan,HR,manager,Active,2,20000,7000
